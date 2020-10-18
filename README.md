@@ -1,6 +1,6 @@
 <h1 align="center">  Calculadora Simples </h1>
 <p align="center"> 
-  Rafa7 Developer :coffee:  <a href="https://discord.bio/p/rafa"> Rafa7 </a>
+  Developer :coffee:  <a href="https://discord.bio/p/rafa"> Rafa7 </a>
 </p>
 <p align="center">
 </p>
